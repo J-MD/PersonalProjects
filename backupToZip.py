@@ -4,6 +4,7 @@
 
 # TODO: Need to implement compression. Right now just adds to uncompressed zip file. look to zlib for help doing so
 # TODO: Turn into full fledged program with many more features
+# Test comment for git setup with atom
 
 import zipfile, os, datetime
 
